@@ -2,14 +2,14 @@
 
 ![Power BI](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Dashboard.png?raw=true)
 
-## 🚀 Live Dashboard Link - 
+## 🔗 Live Dashboard Link - 
 https://app.powerbi.com/view?r=eyJrIjoiODE3NjRkZDMtZmJkZC00M2E4LTk2NjAtZGEyYjgyMzAyMDY5IiwidCI6ImNlNWViZjI5LTA0NjktNDRjOS1hODhhLTJmNmYzNDQyMWU3OSJ9
 
 ## 📖 Project Overview
 
 This project involves a detailed analysis of a Multinational IT Company's sales data collected from crm tools using Power BI. The goal is to gain valuable insights and answer various business questions faced by stakeholders based on the dataset. The following README provides a detailed information of the project's objectives, business problems, solutions, findings, and conclusions. The dataset includes information about open sales pipelines and closed sales deals across company's various locations globally.
 
-## Objective 
+## 🎯 Objective 
 
 - Use Power BI to analyze and visualize the CRM sales data to investigate the sales performance across regions, countries, and products.
 - Visualize total sales, perhaps through a line chart or a bar chart, showing trends over time.
@@ -17,7 +17,7 @@ This project involves a detailed analysis of a Multinational IT Company's sales 
 - Visualizations that show sales distribution across selected dimensions.
 - A map visualization that displays sales geographically based on the selected filters
 
-## Meta-Data
+## 📜 Meta-Data
 
 ### 1. TCV (Total contract value)
 
@@ -44,7 +44,7 @@ A deal that was successfully closed and a prospect became a customer. This could
 
 A deal that was pursued but did not result in a successful sale.
 
-## Data Transformation Steps 
+## 🛠 Data Transformation Steps 
 
 - Appended the two datasets named "Open Piplines" & "Closed Deals" into one inside the power query as they were smaller in size to 
   simplify the data transformation and analysis.
@@ -69,7 +69,7 @@ A deal that was pursued but did not result in a successful sale.
 
 
 
-## Business Problems & Solutions
+## 💡 Business Problems & Solutions
 
 ### 1. Which Country is the most profitable?
 
@@ -108,7 +108,7 @@ A deal that was pursued but did not result in a successful sale.
 
 Ans. Roli Manjusha, Adrian French, Capri Sam have been performing exceptionally well in terms of bringing absolute TCV for the company. Their efforts should get recognition and company should utilize their expertise and mentorship for motivating other opportunity owners to perform better for the company. 
 
-## Findings 
+## 🔎 Findings 
 
 Though we found out the targated dimensions i.e. services, countries with highest/lowest TCV margin % but according to sheer value we get compltely different dimensions. 
 
@@ -116,7 +116,7 @@ For example Mexico has the highest percentage of TCV margin of 47.89% but it has
 
 Also our sales has drastically dropped in 2025 from 2024, though they have increased from 2023 to 2024
 
-## Conclusion 
+## ✅ Conclusion 
 
 - As we discovered while changing the percentage margin of TCV with it's sheer value, we get completly different dimensions. So while it's good to analyze the dimensions on margin percentages but it is also important to pay attention to sheer value.
 - It is imporatnt to pay attention to countries like Mexico, Spain & Chile whcich are bringing high % of TCV margin but low on actual TCV.
@@ -124,7 +124,7 @@ Also our sales has drastically dropped in 2025 from 2024, though they have incre
 - Same case with the services we offer as Consulting & Business Solutions are the on top in terms of TCV margin percentage but they are amongst the lowest in terms of absolute TCV value.
 - Though Digital Assets & Data Center services are the lowest in terms of TCV margin percentage but they are bringing highest absolute TCV value for the company.
 
-## Dataset 
+## 📂 Dataset 
 
 - Data Source - https://mavenanalytics.io/data-playground
 
