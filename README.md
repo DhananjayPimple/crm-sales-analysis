@@ -31,16 +31,16 @@ This project involves a detailed analysis of a Multinational IT Company's sales 
 
   Ans - Consulting.
 
-  Though all of the top three services "Consulting", "Business Services" and "Tech Infrastructure Services" have performed very well but consulting came out as top performing service in 
-  terms of sales securing 33.25% TCV Margin.
+  Though all of the top three services "Business Solutions", "Cloud & Security" and "Tech Infrastructure Services" have performed very well but Business Solutions came out as top 
+  performing service in terms of sales deals won securing 36.61% TCV Margin.
 
   ![Services]()
 
 -	Which service has the lowest Margin % for deals in pipeline?
 
-    Ans - Data Centers.
+    Ans - Cloud & Security.
 
-    From all the business services offered by the company, "Data Centers" have the lowest TCV margin percentage as 27.99%.
+    From all the business services offered by the company, "Cloud & Security" have the lowest TCV margin percentage for sales in pipeline as 21.64%.
 
   ![Services2]()
   
