@@ -124,6 +124,10 @@ Also our sales has drastically dropped in 2025 from 2024, though they have incre
 - Same case with the services we offer as Consulting & Business Solutions are the on top in terms of TCV margin percentage but they are amongst the lowest in terms of absolute TCV value.
 - Though Digital Assets & Data Center services are the lowest in terms of TCV margin percentage but they are bringing highest absolute TCV value for the company.
 
+## Dataset 
+
+- Data Source - https://mavenanalytics.io/data-playground
+
 
 
 
