@@ -53,12 +53,18 @@ A deal that was pursued but did not result in a successful sale.
   listed below
   
   1. AccountId >> Account Id in both datasets.
+  
   2. As USA & United States both present in countries column >> USA replaced to United States.
+ 
   3. LiveLife(Mexico) & LiveLife(Mexico ) both present in Account Name Column >> LiveLife(Mexico ) to LiveLife(Mexico).
+ 
   4. Industry column was not present in closed_deals, hence in appended table it becomes empty in 69%. Used dax function to create new 
      industry column.
+     
   5. Calculated TCV - ACV >> Using DAX Measures.
+  
   6. Created YEAR column from Close Date.
+  
   7. Created Calculated Column Stage 2 to slice values based on "Closed Deals" & "Open Pipeline".
 
 
@@ -98,5 +104,16 @@ A deal that was pursued but did not result in a successful sale.
 
   ![Services2](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Business%20Ans%20Snapshots/Services2.png?raw=true)
   
-### 5. Based on the insights provided in the report, what specific actions would you recommend to a stakeholder to optimize their selling strategy ?
+### 5. Based on the insights provided in the report, what specific actions would you recommend to the stakeholders to optimize their selling strategy ?
+
+Ans. 
+
+
+
+
+
+
+
+
+
 
