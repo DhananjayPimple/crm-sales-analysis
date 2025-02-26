@@ -77,7 +77,7 @@ A deal that was pursued but did not result in a successful sale.
   
   As we can see the below snapshot from the dashboard it is clear that "United States" has the highest Total Contract Value as 813.59 Million among all the countries.
 
-  ![Countries]()
+  ![Countries](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Business%20Ans%20Snapshots/countries.png?raw=true)
   
 ### 2. In sales, what is the difference between TCV and ACV?
 
