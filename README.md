@@ -92,9 +92,9 @@ A deal that was pursued but did not result in a successful sale.
 
 ###	4. Which service has the lowest Margin % for deals in pipeline?
 
-    Ans - Cloud & Security.
+  Ans - Cloud & Security.
 
-    From all the business services offered by the company, "Cloud & Security" have the lowest TCV margin percentage for sales in pipeline as 21.64%.
+  From all the business services offered by the company, "Cloud & Security" have the lowest TCV margin percentage for sales in pipeline as 21.64%.
 
   ![Services2](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Business%20Ans%20Snapshots/Services2.png?raw=true)
   
