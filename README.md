@@ -9,7 +9,16 @@ https://app.powerbi.com/view?r=eyJrIjoiODE3NjRkZDMtZmJkZC00M2E4LTk2NjAtZGEyYjgyM
 
 This project involves a detailed analysis of a Multinational IT Company's sales data collected from crm tools using Power BI. The goal is to gain valuable insights and answer various business questions faced by stakeholders based on the dataset. The following README provides a detailed information of the project's objectives, business problems, solutions, findings, and conclusions. The dataset includes information about open sales pipelines and closed sales deals across company's various locations globally.
 
-## Business Problems 
+## Objective 
+
+- Use Power BI to analyze and visualize the CRM sales data to investigate the sales performance across regions, countries, and products.
+- Visualize total sales, perhaps through a line chart or a bar chart, showing trends over time.
+- A slicer or filter for selecting specific regions, countries, industries and services.
+- Visualizations that show sales distribution across selected dimensions.
+- A map visualization that displays sales geographically based on the selected filters
+
+
+## Business Problems & Solutions
 
 - Which Country is the most profitable?
 
