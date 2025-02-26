@@ -106,11 +106,24 @@ A deal that was pursued but did not result in a successful sale.
   
 ### 5. Based on the insights provided in the report, what specific actions would you recommend to the stakeholders to optimize their selling strategy ?
 
-Ans. 
+Ans. Roli Manjusha, Adrian French, Capri Sam have been performing exceptionally well in terms of bringing absolute TCV for the company. Their efforts should get recognition and company should utilize their expertise and mentorship for motivating other opportunity owners to perform better for the company. 
 
 ## Findings 
 
-Though we found out the targated dimensions i.e. 
+Though we found out the targated dimensions i.e. services, countries with highest/lowest TCV margin % but according to sheer value we get compltely different dimensions. 
+
+For example Mexico has the highest percentage of TCV margin of 47.89% but it has TCV of only 0.46 Million Dollers. While United States has TCV margin percentage of 29.34%, but it has highest TCV of 813.59 Million Dollers.
+
+Also our sales has drastically dropped in 2025 from 2024, though they have increased from 2023 to 2024
+
+## Conclusion 
+
+- As we discovered while changing the percentage margin of TCV with it's sheer value, we get completly different dimensions. So while it's good to analyze the dimensions on margin percentages but it is also important to pay attention to sheer value.
+- It is imporatnt to pay attention to countries like Mexico, Spain & Chile whcich are bringing high % of TCV margin but low on actual TCV.
+- At the same time it is good to have an increased efficiancy in terms of TCV margin in our existing top countries for absolute TCV like United States & Switzerland.
+- Same case with the services we offer as Consulting & Business Solutions are the on top in terms of TCV margin percentage but they are amongst the lowest in terms of absolute TCV value.
+- Though Digital Assets & Data Center services are the lowest in terms of TCV margin percentage but they are bringing highest absolute TCV value for the company.
+
 
 
 
