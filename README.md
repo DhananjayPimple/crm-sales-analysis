@@ -65,7 +65,7 @@ A deal that was pursued but did not result in a successful sale.
 
 ## Business Problems & Solutions
 
-### Which Country is the most profitable?
+### 1. Which Country is the most profitable?
 
   Ans - Mexico.
   
@@ -73,7 +73,7 @@ A deal that was pursued but did not result in a successful sale.
 
   ![Country](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Business%20Ans%20Snapshots/Country.png?raw=true)
   
-### In sales, what is the difference between TCV and ACV?
+### 2. In sales, what is the difference between TCV and ACV?
 
   Ans - 548.4 Million Dollers
 
@@ -81,7 +81,7 @@ A deal that was pursued but did not result in a successful sale.
 
   ![Difference](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Business%20Ans%20Snapshots/Difference.png?raw=true)
   
-### Which service has the highest Margin % for deals won?
+### 3. Which service has the highest Margin % for deals won?
 
   Ans - Business Solutions.
 
@@ -90,7 +90,7 @@ A deal that was pursued but did not result in a successful sale.
 
   ![Services](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Business%20Ans%20Snapshots/Services.png?raw=true)
 
-###	Which service has the lowest Margin % for deals in pipeline?
+###	4. Which service has the lowest Margin % for deals in pipeline?
 
     Ans - Cloud & Security.
 
@@ -98,5 +98,5 @@ A deal that was pursued but did not result in a successful sale.
 
   ![Services2](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Business%20Ans%20Snapshots/Services2.png?raw=true)
   
-- Based on the insights provided in your report, what specific actions would you recommend to a seller to optimize their selling strategy? Please explain your reasoning.
+### 5. Based on the insights provided in the report, what specific actions would you recommend to a stakeholder to optimize their selling strategy ?
 
