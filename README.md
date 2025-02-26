@@ -17,10 +17,55 @@ This project involves a detailed analysis of a Multinational IT Company's sales 
 - Visualizations that show sales distribution across selected dimensions.
 - A map visualization that displays sales geographically based on the selected filters
 
+## Meta-Data
+
+### 1. TCV (Total contract value)
+
+Measures the total value of a customer contract, including one-time fees, service fees, and recurring charges. It's useful for assessing the health of a company's customer base. TCV is a more accurate projection of future revenue.
+
+
+### 2. ACV (Anuual contract value)
+
+Measures the average annual revenue a customer generates for a business. It's useful for assessing sales team performance and understanding revenue growth from new bookings. ACV is calculated by dividing the total contract value by the number of years in the contract.
+
+### 3. Closed Deals
+
+Refer to sales opportunities that have been successfully completed and finalized, meaning a customer has signed a contract and the sale is considered as "won".
+
+### 4. Open Pipeline
+
+Represents all the potential sales opportunities currently in progress at various stages of the sales process, meaning they haven't been closed yet and are still being actively pursued by the sales team.
+
+### 5. Closed Won
+
+A deal that was successfully closed and a prospect became a customer. This could be a new customer acquisition or upselling an existing customer.
+
+### 6. Closed Lost
+
+A deal that was pursued but did not result in a successful sale.
+
+## Data Transformation Steps 
+
+- Appended the two datasets named "Open Piplines" & "Closed Deals" into one inside the power query as they were smaller in size to 
+  simplify the data transformation and analysis.
+- Removed un-necessary columns from the datasets as they were irrelevent to the analysis and may occupy un-necessary space.
+- After carefully examining the dataset it was found that the dataset was mostly clean except some data formatting issues which are 
+  listed below
+  
+  1. AccountId >> Account Id in both datasets.
+  2. As USA & United States both present in countries column >> USA replaced to United States.
+  3. LiveLife(Mexico) & LiveLife(Mexico ) both present in Account Name Column >> LiveLife(Mexico ) to LiveLife(Mexico).
+  4. Industry column was not present in closed_deals, hence in appended table it becomes empty in 69%. Used dax function to create new 
+     industry column.
+  5. Calculated TCV - ACV >> Using DAX Measures.
+  6. Created YEAR column from Close Date.
+  7. Created Calculated Column Stage 2 to slice values based on "Closed Deals" & "Open Pipeline".
+
+
 
 ## Business Problems & Solutions
 
-- Which Country is the most profitable?
+### Which Country is the most profitable?
 
   Ans - Mexico.
   
@@ -28,7 +73,7 @@ This project involves a detailed analysis of a Multinational IT Company's sales 
 
   ![Country](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Business%20Ans%20Snapshots/Country.png?raw=true)
   
-- In sales, what is the difference between TCV and ACV?
+### In sales, what is the difference between TCV and ACV?
 
   Ans - 548.4 Million Dollers
 
@@ -36,7 +81,7 @@ This project involves a detailed analysis of a Multinational IT Company's sales 
 
   ![Difference](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Business%20Ans%20Snapshots/Difference.png?raw=true)
   
-- Which service has the highest Margin % for deals won?
+### Which service has the highest Margin % for deals won?
 
   Ans - Business Solutions.
 
@@ -45,7 +90,7 @@ This project involves a detailed analysis of a Multinational IT Company's sales 
 
   ![Services](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Business%20Ans%20Snapshots/Services.png?raw=true)
 
--	Which service has the lowest Margin % for deals in pipeline?
+###	Which service has the lowest Margin % for deals in pipeline?
 
     Ans - Cloud & Security.
 
