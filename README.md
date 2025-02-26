@@ -73,9 +73,9 @@ A deal that was pursued but did not result in a successful sale.
 
 ### 1. Which Country is the most profitable?
 
-  Ans - Mexico.
+  Ans - United States.
   
-  As we can see the below snapshot from the dashboard it is clear that "Mexico" has the highest percentage of Total Contract Value among all the countries.
+  As we can see the below snapshot from the dashboard it is clear that "United States" has the highest Total Contract Value as 813.59 Million among all the countries.
 
   ![Country](https://github.com/DhananjayPimple/crm-sales-analysis/blob/main/Business%20Ans%20Snapshots/Country.png?raw=true)
   
@@ -107,6 +107,10 @@ A deal that was pursued but did not result in a successful sale.
 ### 5. Based on the insights provided in the report, what specific actions would you recommend to the stakeholders to optimize their selling strategy ?
 
 Ans. 
+
+## Findings 
+
+Though we found out the targated dimensions i.e. 
 
 
 
